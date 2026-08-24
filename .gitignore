@@ -1,0 +1,15 @@
+# Compiled executables
+hello
+basics
+arrays
+pointers
+strings
+stats_demo
+lab1
+
+# Object files
+*.o
+
+# Editor temporary files
+*.swp
+*~
